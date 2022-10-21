@@ -1,0 +1,71 @@
+==> 2022-10-20 15:28:53 <==
+# cmd: C:\Users\BachVu\anaconda3\Scripts\conda-script.py create --name visualisation python=3.9.13
+# conda version: 22.9.0
++defaults/noarch::tzdata-2022e-h04d1e81_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2022.07.19-haa95532_0
++defaults/win-64::certifi-2022.9.24-py39haa95532_0
++defaults/win-64::openssl-1.1.1q-h2bbff1b_0
++defaults/win-64::pip-22.2.2-py39haa95532_0
++defaults/win-64::python-3.9.13-h6244533_2
++defaults/win-64::setuptools-63.4.1-py39haa95532_0
++defaults/win-64::sqlite-3.39.3-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py39haa95532_2
+# update specs: ['python=3.9.13']
+==> 2022-10-20 15:41:24 <==
+# cmd: C:\Users\BachVu\anaconda3\Scripts\conda-script.py install spyder-kernels=2.2
+# conda version: 22.9.0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::cloudpickle-2.0.0-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::packaging-21.3-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::prompt-toolkit-3.0.20-pyhd3eb1b0_0
++defaults/noarch::pygments-2.11.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::traitlets-5.1.1-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/win-64::colorama-0.4.5-py39haa95532_0
++defaults/win-64::debugpy-1.5.1-py39hd77b12b_0
++defaults/win-64::entrypoints-0.4-py39haa95532_0
++defaults/win-64::ipykernel-6.15.2-py39haa95532_0
++defaults/win-64::ipython-7.31.1-py39haa95532_1
++defaults/win-64::jedi-0.18.1-py39haa95532_1
++defaults/win-64::jupyter_client-7.3.5-py39haa95532_0
++defaults/win-64::jupyter_core-4.11.1-py39haa95532_0
++defaults/win-64::libsodium-1.0.18-h62dcd97_0
++defaults/win-64::matplotlib-inline-0.1.6-py39haa95532_0
++defaults/win-64::nest-asyncio-1.5.5-py39haa95532_0
++defaults/win-64::psutil-5.9.0-py39h2bbff1b_0
++defaults/win-64::pyparsing-3.0.9-py39haa95532_0
++defaults/win-64::pywin32-302-py39h2bbff1b_2
++defaults/win-64::pyzmq-23.2.0-py39hd77b12b_0
++defaults/win-64::spyder-kernels-2.2.1-py39haa95532_0
++defaults/win-64::tornado-6.2-py39h2bbff1b_0
++defaults/win-64::zeromq-4.3.4-hd77b12b_0
+# update specs: ['spyder-kernels=2.2']
+==> 2022-10-20 15:43:13 <==
+# cmd: C:\Users\BachVu\anaconda3\Scripts\conda-script.py install spyder-kernels=2.3
+# conda version: 22.9.0
+-defaults/win-64::spyder-kernels-2.2.1-py39haa95532_0
++defaults/win-64::spyder-kernels-2.3.3-py39haa95532_0
+# update specs: ['spyder-kernels=2.3']
+==> 2022-10-21 10:07:30 <==
+# cmd: C:\Users\BachVu\anaconda3\Scripts\conda-script.py install scipy
+# conda version: 22.9.0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::fftw-3.3.9-h2bbff1b_1
++defaults/win-64::icc_rt-2022.1.0-h6049295_2
++defaults/win-64::intel-openmp-2021.4.0-haa95532_3556
++defaults/win-64::mkl-2021.4.0-haa95532_640
++defaults/win-64::mkl-service-2.4.0-py39h2bbff1b_0
++defaults/win-64::mkl_fft-1.3.1-py39h277e83a_0
++defaults/win-64::mkl_random-1.2.2-py39hf11a4ad_0
++defaults/win-64::numpy-1.23.3-py39h3b20f71_0
++defaults/win-64::numpy-base-1.23.3-py39h4da318b_0
++defaults/win-64::scipy-1.9.1-py39he11b74f_0
+# update specs: ['scipy']
